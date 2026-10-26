@@ -1,0 +1,8 @@
+{
+  "name": "TRƯỜNG TIỂU HỌC HOÀI NHƠN – AI CLASS TRỢ LÝ LỚP HỌC THÔNG MINH",
+  "description": "SẢN PHẨM DỰ THI ỨNG DỤNG AI TRONG GIÁO DỤC VIỆT NAM - Giáo viên: Đỗ Thị Hoà - Lớp 3C1. Mô hình ứng dụng trí tuệ nhân tạo – công nghệ số trong quản lý, giáo dục song ngữ và kết nối học sinh tiểu học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
